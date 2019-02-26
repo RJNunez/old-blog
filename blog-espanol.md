@@ -4,5 +4,5 @@ title: Blog - Español
 permalink: /blog-espanol/
 ---
 
-# Aquí se van a publicar los blogs en español
-Todavía no se como hacer esto
+# Aquí se van a publicar los posts en español
+Sorry, todavia no se como programar en html o whatever y por eso esto está vacio. 
