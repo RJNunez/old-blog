@@ -6,7 +6,7 @@
 name: Rolando J. Acosta
 
 # Short bio or description (displayed in the header)
-description: PhD Candidate in Biostatistics
+description: PhD Candidate in Biostatistics and all around cool geek
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,12 +18,12 @@ description: PhD Candidate in Biostatistics
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: roa310@g.harvard.edu
   facebook:
   flickr:
   github: RJNunez
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/rolando-j-acosta-nuñez-562330b3/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
