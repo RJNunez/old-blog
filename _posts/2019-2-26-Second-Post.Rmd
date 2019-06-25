@@ -1,5 +1,5 @@
 ---
-title: "Can I Include Code in my Blog?"
+title: "Second try at including code"
 output: github_document
 ---
 
