@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My first blog post!
+title: This is my first blog post!
 ---
 
-Success!
+It works! Success!
