@@ -15,7 +15,7 @@ permalink: /cv/
   * _Major GPA 4.00/4.00 - Overall GPA 3.97/4.00_
  
 ## Experience: 
-- __Department of Mathematics, UPRH__: _Undergraduate Research Scientist_
+- __Department of Mathematics, University of Puerto Rico in Humacao__: _Undergraduate Research Scientist_
   * Humacao, PR
   * January 2015 - May 2017
   * Mentored by Dr. Joaquín Rivera
@@ -41,10 +41,14 @@ permalink: /cv/
 
 ## Teaching
 - __Introduction to Statistical Methods (BST 201)__: _Teaching Assistant_
+  * Harvard T.H.Chan School of Public Health
   * Professor: Dr. Paul Catalano
   * Fall 2018
   * [Course website](https://locator.tlt.harvard.edu/course/hsph-190012/2019/fall/10064)
-  
+
+- __Python Workshop__: _Teaching Fellow_
+  * Universtiy of Puerto Rico in Humacao
+  * September 2015
   
   
   
