@@ -1,6 +1,0 @@
----
-layout: post
-title: Second try at including code!
----
-
-I'm trying to do this and do that and redodify this whole thing
