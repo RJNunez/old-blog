@@ -43,7 +43,7 @@ permalink: /cv/
 - __Introduction to Statistical Methods (BST 201)__: _Teaching Assistant_
   * Professor: Dr. Paul Catalano
   * Fall 2018
-  * (Course website)[https://locator.tlt.harvard.edu/course/hsph-190012/2019/fall/10064]
+  * [Course website](https://locator.tlt.harvard.edu/course/hsph-190012/2019/fall/10064)
   
   
   
