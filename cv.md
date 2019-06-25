@@ -40,6 +40,9 @@ permalink: /cv/
   * Project: Assessing the Effect of Practical Considerations when using the CRM in Dose Finding Studies
 
 ## Teaching
+- __Taller en UPRRP__
+  * Tienes que llenar esto aquí
+
 - __Introduction to Statistical Methods (BST 201)__: _Teaching Assistant_
   * Harvard T.H.Chan School of Public Health
   * Professor: Dr. Paul Catalano
@@ -49,6 +52,11 @@ permalink: /cv/
 - __Python Workshop__: _Teaching Fellow_
   * Universtiy of Puerto Rico in Humacao
   * September 2015
+  
+- __Python Workshop__: _Teaching Fellow_
+  * Universtiy of Puerto Rico in Humacao
+  * Upward Bound
+  * January 2013 - May 2013
   
   
   
