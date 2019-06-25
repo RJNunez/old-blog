@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog - Español
-permalink: /blog-espanol/
+title: Curriculum Vitae
+permalink: /cv/
 ---
 
 # Aquí se van a publicar los posts en español
